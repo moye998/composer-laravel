@@ -1,0 +1,24 @@
+{
+    "name": "chenmoye/laravel",
+    "type": "library",
+    "description": "chenmoye PHP laravel development library",
+    "homepage": "",
+    "keywords": [
+        "chenmoye"
+    ],
+    "authors": [
+        {
+            "name": "ChenMoye"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^7.0",
+        "chenmoye/core": "*"
+    },
+    "autoload": {
+        "files": [
+            "helpers.php"
+        ]
+    }
+}
